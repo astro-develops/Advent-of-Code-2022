@@ -4,7 +4,7 @@
 
 <sup>
 
-- [x] Day 1 - *Calorie Counting - Node.js*
+- [x] Day 1 - *Calorie Counting | Node.js*
 - [ ] Day 2
 
 <sup>
