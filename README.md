@@ -4,7 +4,7 @@
 
 <sup>
 
-- [x] Day 1 - *Calorie Counting | Node.js*
-- [ ] Day 2
-
+- [x] Day 1: *Calorie Counting | Node.js*
+- [x] Day 2: *Rock Paper Scissors | Node.js*
+- [ ] Day 3
 <sup>
