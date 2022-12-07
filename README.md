@@ -7,9 +7,6 @@
 | Day 1 | Calorie Counting | ⭐ | ⭐ | Node.js |
 | Day 2 | Rock Paper Scissors | ⭐ | ⭐ | Node.js |
 | Day 3 | Rucksack Reorganization | ⭐ | ⭐ | Node.js |
-
-<!--
-| Day 4 | Camp Cleanup | ⭐ | ⭐ | Node.js |
+| Day 4 | Camp Cleanup | ⭐ | ⭐ | Python |
 | Day 5 | Supply Stacks | ⭐ | ⭐ | Deleted |
-| Day 6 | Tuning Trouble | ⭐ | ⭐ | Node.js |
--->
+| Day 6 | Tuning Trouble | ⭐ | ⭐ | Python |
