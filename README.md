@@ -19,5 +19,6 @@
 | Day 4 | Camp Cleanup | ⭐ | ⭐ | Python |
 | Day 5 | Supply Stacks | ⭐ | ⭐ | Deleted |
 | Day 6 | Tuning Trouble | ⭐ | ⭐ | Python |
+| Day 7 | No Space Left On Device | ⭐ | ⭐ | Python |
 
 #
