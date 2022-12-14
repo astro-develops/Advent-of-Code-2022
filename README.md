@@ -4,7 +4,7 @@
 
 ### Goals:
 
- - [ ] Do a challenge in Java
+ - [x] Do a challenge in Java
  - [ ] Do a challenge in Rust
  - [ ] Do a challenge in C#
  - [ ] Complete all 25 days
@@ -20,5 +20,5 @@
 | Day 5 | Supply Stacks | ⭐ | ⭐ | Deleted |
 | Day 6 | Tuning Trouble | ⭐ | ⭐ | Python |
 | Day 7 | No Space Left On Device | ⭐ | ⭐ | Python |
-
+| Day 7-14 | Done on friends account | ⭐ | ⭐ | Python, Java,Typescript, Node.js |
 #
